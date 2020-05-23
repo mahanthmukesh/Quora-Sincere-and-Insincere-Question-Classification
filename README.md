@@ -28,3 +28,5 @@ The Data Set contains
 - the question that was asked
 - whether it was identified as insincere (target = 1). 
 
+## References
+Embeddings: https://www.kaggle.com/sudalairajkumar/a-look-at-different-embeddings
